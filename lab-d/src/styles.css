@@ -1,0 +1,16 @@
+body {
+  background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=49255");
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --primary-color: #008148;
+  --secondary-color: #323B86;
+  --accent-color: #e8e7fa;
+  --shadow-color: #E8E8E8;
+}
+* {
+  box-sizing: border-box;
+}
