@@ -1,7 +1,0 @@
-<div id="frame">
-  <div>Random component (max ={{max}})</div>
-  <span>{{myNumber}}</span>
-  <button (click)="btnClick()">Losuj</button>
-  <span *ngIf="isSmallerThanHalf()" [class.green]="isSmallerThanHalf()">Mniejsze niż połowa</span>
-  <span *ngIf="!isSmallerThanHalf()" [class.red]="!isSmallerThanHalf()">Większe niż połowa</span>
-</div>

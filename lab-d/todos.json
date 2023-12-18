@@ -5,7 +5,21 @@
       "title": "Hello World",
       "deadline": "1900-01-01",
       "completed": true,
+      "archived": false
+    },
+    {
+      "id": 2,
+      "title": "Hello Again World",
+      "deadline": "2000-01-01",
+      "completed": true,
       "archived": true
+    },
+    {
+      "title": "Pranie",
+      "deadline": "2023-12-18",
+      "archived": true,
+      "completed": true,
+      "id": 3
     }
   ]
 }

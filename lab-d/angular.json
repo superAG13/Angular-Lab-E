@@ -25,6 +25,10 @@
               "src/assets"
             ],
             "styles": [
+<<<<<<< HEAD
+              "@angular/material/prebuilt-themes/pink-bluegrey.css",
+=======
+>>>>>>> origin/main
               "src/styles.css"
             ],
             "scripts": []
@@ -87,6 +91,10 @@
               "src/assets"
             ],
             "styles": [
+<<<<<<< HEAD
+              "@angular/material/prebuilt-themes/pink-bluegrey.css",
+=======
+>>>>>>> origin/main
               "src/styles.css"
             ],
             "scripts": []
